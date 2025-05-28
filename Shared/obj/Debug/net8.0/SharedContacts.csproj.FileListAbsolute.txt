@@ -1,0 +1,14 @@
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/bin/Debug/net8.0/SharedContacts.deps.json
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/bin/Debug/net8.0/SharedContacts.runtimeconfig.json
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/bin/Debug/net8.0/SharedContacts.dll
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/bin/Debug/net8.0/SharedContacts.pdb
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/SharedContacts.csproj.AssemblyReference.cache
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/SharedContacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/SharedContacts.AssemblyInfoInputs.cache
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/SharedContacts.AssemblyInfo.cs
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/SharedContacts.csproj.CoreCompileInputs.cache
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/SharedContacts.dll
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/refint/SharedContacts.dll
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/SharedContacts.pdb
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/SharedContacts.genruntimeconfig.cache
+/Users/lzkgmr/Desktop/CW2_SoftwareDesign-main/SharedContacts/obj/Debug/net8.0/ref/SharedContacts.dll
